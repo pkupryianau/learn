@@ -1,0 +1,5 @@
+Second file to Git
+insert addition  info to this file
+
+Changed file2 in branch Master
+
