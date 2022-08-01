@@ -2,3 +2,8 @@ Third file for Git
 new info insert to this file from  my cli
 
 change for test diff
+
+
+
+Check command git stash
+
